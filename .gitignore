@@ -1,0 +1,9 @@
+*.o
+*.d
+*/Binary/*
+*/MDK-ARM/*
+!*/MDK-ARM/*.uvoptx
+!*/MDK-ARM/*.uvprojx
+!*/MDK-ARM/*.s
+*.bin
+*.hex
